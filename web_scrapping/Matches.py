@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 #making get request
 
@@ -23,4 +24,6 @@ for row in content:
         #scorecard = columns[6].text
         list_row = [team1, team2, winner, margin, ground, matchdate]
         dataframe.append(list_row)
-print(dataframe)
+df = pd.DataFrame(dataframe)
+df.columns = ['Team1', 'Team2', 'Winner', 'Margin', 'Ground', 'Matchdate']
+df.to_csv(r'C:\Users\ASUS\Desktop\Kaggle\Data Analysis\Cricket_Analysis\WebData\Matches.csv', index=False)
