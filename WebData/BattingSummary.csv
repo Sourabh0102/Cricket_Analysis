@@ -1,0 +1,699 @@
+Match,Name,Pos,Inning,Out,Runs,Balls,Fours,Sixes,S.R,Match_ID
+India vs Sri Lanka,Ishan Kishan,1,1,c DM de Silva b PWH de Silva,37,29,3,2,127.58,T20I # 1984
+India vs Sri Lanka,Shubman Gill,2,1,lbw b Theekshana,7,5,1,0,140.00,T20I # 1984
+India vs Sri Lanka,Suryakumar Yadav,3,1,c Rajapaksa b Karunaratne,7,10,1,0,70.00,T20I # 1984
+India vs Sri Lanka,Sanju Samson,4,1,c Madushanka b DM de Silva,5,6,0,0,83.33,T20I # 1984
+India vs Sri Lanka,Hardik Pandya,5,1,c †Mendis b Madushanka,29,27,4,0,107.40,T20I # 1984
+India vs Sri Lanka,Deepak Hooda,6,1,not out ,41,23,1,4,178.26,T20I # 1984
+India vs Sri Lanka,Axar Patel,7,1,not out ,31,20,3,1,155.00,T20I # 1984
+India vs Sri Lanka,Pathum Nissanka,1,2, b Shivam Mavi,1,3,0,0,33.33,T20I # 1984
+India vs Sri Lanka,Kusal Mendis,2,2,c Samson b HV Patel,28,25,5,0,112.00,T20I # 1984
+India vs Sri Lanka,Dhananjaya de Silva,3,2,c Samson b Shivam Mavi,8,6,2,0,133.33,T20I # 1984
+India vs Sri Lanka,Charith Asalanka,4,2,c †Ishan Kishan b Umran Malik,12,15,1,1,80.00,T20I # 1984
+India vs Sri Lanka,Bhanuka Rajapaksa,5,2,c Pandya b HV Patel,10,11,1,0,90.90,T20I # 1984
+India vs Sri Lanka,Dasun Shanaka,6,2,c Chahal b Umran Malik,45,27,3,3,166.66,T20I # 1984
+India vs Sri Lanka,Wanindu Hasaranga de Silva,7,2,c Pandya b Shivam Mavi,21,10,1,2,210.00,T20I # 1984
+India vs Sri Lanka,Chamika Karunaratne,8,2,not out ,23,16,0,2,143.75,T20I # 1984
+India vs Sri Lanka,Maheesh Theekshana,9,2,c Yadav b Shivam Mavi,1,4,0,0,25.00,T20I # 1984
+India vs Sri Lanka,Kasun Rajitha,10,2,run out (Hooda/AR Patel),5,4,0,0,125.00,T20I # 1984
+India vs Sri Lanka,Dilshan Madushanka,11,2,run out (Hooda/†Ishan Kishan),0,0,0,0,-,T20I # 1984
+Sri Lanka vs India,Pathum Nissanka,1,1,c Tripathi b Patel,33,35,4,0,94.28,T20I # 1985
+Sri Lanka vs India,Kusal Mendis,2,1,lbw b Chahal,52,31,3,4,167.74,T20I # 1985
+Sri Lanka vs India,Bhanuka Rajapaksa,3,1, b Umran Malik,2,3,0,0,66.66,T20I # 1985
+Sri Lanka vs India,Charith Asalanka,4,1,c Shubman Gill b Umran Malik,37,19,0,4,194.73,T20I # 1985
+Sri Lanka vs India,Dhananjaya de Silva,5,1,c Hooda b Patel,3,6,0,0,50.00,T20I # 1985
+Sri Lanka vs India,Dasun Shanaka,6,1,not out ,56,22,2,6,254.54,T20I # 1985
+Sri Lanka vs India,Wanindu Hasaranga de Silva,7,1, b Umran Malik,0,1,0,0,0.00,T20I # 1985
+Sri Lanka vs India,Chamika Karunaratne,8,1,not out ,11,10,1,0,110.00,T20I # 1985
+Sri Lanka vs India,Ishan Kishan,1,2, b Rajitha,2,5,0,0,40.00,T20I # 1985
+Sri Lanka vs India,Shubman Gill,2,2,c Theekshana b Rajitha,5,3,1,0,166.66,T20I # 1985
+Sri Lanka vs India,Rahul Tripathi,3,2,c †Mendis b Madushanka,5,5,1,0,100.00,T20I # 1985
+Sri Lanka vs India,Suryakumar Yadav,4,2,c PWH de Silva b Madushanka,51,36,3,3,141.66,T20I # 1985
+Sri Lanka vs India,Hardik Pandya,5,2,c †Mendis b Karunaratne,12,12,1,1,100.00,T20I # 1985
+Sri Lanka vs India,Deepak Hooda,6,2,c DM de Silva b PWH de Silva,9,12,0,0,75.00,T20I # 1985
+Sri Lanka vs India,Axar Patel,7,2,c Karunaratne b Shanaka,65,31,3,6,209.67,T20I # 1985
+Sri Lanka vs India,Shivam Mavi,8,2,c Theekshana b Shanaka,26,15,2,2,173.33,T20I # 1985
+Sri Lanka vs India,Umran Malik,9,2,not out ,1,1,0,0,100.00,T20I # 1985
+India vs Sri Lanka,Ishan Kishan,1,1,c DM de Silva b Madushanka,1,2,0,0,50.00,T20I # 1986
+India vs Sri Lanka,Shubman Gill,2,1, b PWH de Silva,46,36,2,3,127.77,T20I # 1986
+India vs Sri Lanka,Rahul Tripathi,3,1,c Madushanka b Karunaratne,35,16,5,2,218.75,T20I # 1986
+India vs Sri Lanka,Suryakumar Yadav,4,1,not out ,112,51,7,9,219.60,T20I # 1986
+India vs Sri Lanka,Hardik Pandya,5,1,c DM de Silva b Rajitha,4,4,0,0,100.00,T20I # 1986
+India vs Sri Lanka,Deepak Hooda,6,1,c PWH de Silva b Madushanka,4,2,1,0,200.00,T20I # 1986
+India vs Sri Lanka,Axar Patel,7,1,not out ,21,9,4,0,233.33,T20I # 1986
+India vs Sri Lanka,Pathum Nissanka,1,2,c Shivam Mavi b Arshdeep Singh,15,17,3,0,88.23,T20I # 1986
+India vs Sri Lanka,Kusal Mendis,2,2,c Umran Malik b Patel,23,15,2,2,153.33,T20I # 1986
+India vs Sri Lanka,Avishka Fernando,3,2,c Arshdeep Singh b Pandya,1,3,0,0,33.33,T20I # 1986
+India vs Sri Lanka,Dhananjaya de Silva,4,2,c Shubman Gill b Chahal,22,14,2,1,157.14,T20I # 1986
+India vs Sri Lanka,Charith Asalanka,5,2,c Shivam Mavi b Chahal,19,14,2,1,135.71,T20I # 1986
+India vs Sri Lanka,Dasun Shanaka,6,2,c Patel b Arshdeep Singh,23,17,0,2,135.29,T20I # 1986
+India vs Sri Lanka,Wanindu Hasaranga de Silva,7,2,c Hooda b Umran Malik,9,8,1,0,112.50,T20I # 1986
+India vs Sri Lanka,Chamika Karunaratne,8,2,lbw b Pandya,0,2,0,0,0.00,T20I # 1986
+India vs Sri Lanka,Maheesh Theekshana,9,2, b Umran Malik,2,5,0,0,40.00,T20I # 1986
+India vs Sri Lanka,Kasun Rajitha,10,2,not out ,9,4,2,0,225.00,T20I # 1986
+India vs Sri Lanka,Dilshan Madushanka,11,2, b Arshdeep Singh,1,2,0,0,50.00,T20I # 1986
+Ireland vs Zimbabwe,Andy Balbirnie,1,1,c Burl b Chatara,5,7,1,0,71.42,T20I # 1987
+Ireland vs Zimbabwe,Ross Adair,2,1, b Ngarava,5,6,1,0,83.33,T20I # 1987
+Ireland vs Zimbabwe,Stephen Doheny,3,1,c †Madande b Evans,15,13,2,0,115.38,T20I # 1987
+Ireland vs Zimbabwe,Harry Tector,4,1, b Burl,5,16,0,0,31.25,T20I # 1987
+Ireland vs Zimbabwe,Curtis Campher,5,1,c †Madande b Masakadza,20,20,2,0,100.00,T20I # 1987
+Ireland vs Zimbabwe,George Dockrell,6,1, b Burl,9,8,0,1,112.50,T20I # 1987
+Ireland vs Zimbabwe,Tyrone Kane,7,1,c Madhevere b Masakadza,9,11,1,0,81.81,T20I # 1987
+Ireland vs Zimbabwe,Gareth Delany,8,1, b Ngarava,24,20,2,0,120.00,T20I # 1987
+Ireland vs Zimbabwe,Mark Adair,9,1,c Ervine b Burl,2,5,0,0,40.00,T20I # 1987
+Ireland vs Zimbabwe,Fionn Hand,10,1,not out ,9,4,2,0,225.00,T20I # 1987
+Ireland vs Zimbabwe,Barry McCarthy,11,1,c Ervine b Chatara,8,6,1,0,133.33,T20I # 1987
+Ireland vs Zimbabwe,Craig Ervine,1,2,c McCarthy b Tector,4,6,1,0,66.66,T20I # 1987
+Ireland vs Zimbabwe,Tadiwanashe Marumani,2,2,lbw b MR Adair,4,2,1,0,200.00,T20I # 1987
+Ireland vs Zimbabwe,Wessly Madhevere,3,2, b Tector,16,22,1,0,72.72,T20I # 1987
+Ireland vs Zimbabwe,Gary Ballance,4,2,c †Doheny b MR Adair,30,29,2,1,103.44,T20I # 1987
+Ireland vs Zimbabwe,Sean Williams,5,2,not out ,34,30,3,0,113.33,T20I # 1987
+Ireland vs Zimbabwe,Ryan Burl,6,2,c Dockrell b McCarthy,8,9,1,0,88.88,T20I # 1987
+Ireland vs Zimbabwe,Clive Madande,7,2,not out ,18,10,3,0,180.00,T20I # 1987
+Zimbabwe vs Ireland,Tadiwanashe Marumani,1,1,c MR Adair b Tector,2,5,0,0,40.00,T20I # 1988
+Zimbabwe vs Ireland,Innocent Kaia,2,1,run out (Campher),25,14,3,1,178.57,T20I # 1988
+Zimbabwe vs Ireland,Craig Ervine,3,1,c Tector b Hume,42,40,4,0,105.00,T20I # 1988
+Zimbabwe vs Ireland,Wessly Madhevere,4,1,c & b Delany,1,3,0,0,33.33,T20I # 1988
+Zimbabwe vs Ireland,Sean Williams,5,1,lbw b Tector,19,15,1,1,126.66,T20I # 1988
+Zimbabwe vs Ireland,Ryan Burl,6,1,c †Doheny b Hume,15,18,1,0,83.33,T20I # 1988
+Zimbabwe vs Ireland,Clive Madande,7,1,run out (Hand/†Doheny),9,8,0,0,112.50,T20I # 1988
+Zimbabwe vs Ireland,Brad Evans,8,1,c Tector b MR Adair,11,10,1,0,110.00,T20I # 1988
+Zimbabwe vs Ireland,Wellington Masakadza,9,1,c Tector b Hume,4,5,0,0,80.00,T20I # 1988
+Zimbabwe vs Ireland,Richard Ngarava,10,1,run out (Dockrell/Hume),0,0,0,0,-,T20I # 1988
+Zimbabwe vs Ireland,Tendai Chatara,11,1,not out ,1,2,0,0,50.00,T20I # 1988
+Zimbabwe vs Ireland,Andy Balbirnie,1,2,c Marumani b Burl,33,31,3,1,106.45,T20I # 1988
+Zimbabwe vs Ireland,Ross Adair,2,2,c Madhevere b Ngarava,65,47,2,4,138.29,T20I # 1988
+Zimbabwe vs Ireland,Stephen Doheny,3,2,c Masakadza b Burl,2,4,0,0,50.00,T20I # 1988
+Zimbabwe vs Ireland,Harry Tector,4,2,c Burl b Chatara,26,21,2,1,123.80,T20I # 1988
+Zimbabwe vs Ireland,George Dockrell,5,2,not out ,15,9,1,1,166.66,T20I # 1988
+Zimbabwe vs Ireland,Curtis Campher,6,2,not out ,6,6,1,0,100.00,T20I # 1988
+Ireland vs Zimbabwe,Andy Balbirnie,1,1, b Masakadza,9,11,1,0,81.81,T20I # 1989
+Ireland vs Zimbabwe,Ross Adair,2,1,c Ervine b Madhevere,1,3,0,0,33.33,T20I # 1989
+Ireland vs Zimbabwe,Stephen Doheny,3,1,c Masakadza b Chatara,2,4,0,0,50.00,T20I # 1989
+Ireland vs Zimbabwe,Harry Tector,4,1, b Madhevere,47,38,3,0,123.68,T20I # 1989
+Ireland vs Zimbabwe,Curtis Campher,5,1,c †Madande b Burl,27,28,2,0,96.42,T20I # 1989
+Ireland vs Zimbabwe,George Dockrell,6,1,c Madhevere b Jongwe,23,17,1,0,135.29,T20I # 1989
+Ireland vs Zimbabwe,Neil Rock,7,1,c Ervine b Burl,2,4,0,0,50.00,T20I # 1989
+Ireland vs Zimbabwe,Mark Adair,8,1, b Chatara,14,10,1,0,140.00,T20I # 1989
+Ireland vs Zimbabwe,Fionn Hand,9,1,not out ,0,2,0,0,0.00,T20I # 1989
+Ireland vs Zimbabwe,Barry McCarthy,10,1,c Masakadza b Jongwe,6,2,0,1,300.00,T20I # 1989
+Ireland vs Zimbabwe,Ben White,11,1,not out ,1,1,0,0,100.00,T20I # 1989
+Ireland vs Zimbabwe,Tadiwanashe Marumani,1,2,c Balbirnie b McCarthy,5,11,0,0,45.45,T20I # 1989
+Ireland vs Zimbabwe,Innocent Kaia,2,2,c MR Adair b Tector,23,23,3,0,100.00,T20I # 1989
+Ireland vs Zimbabwe,Craig Ervine,3,2,c Campher b MR Adair,54,43,6,0,125.58,T20I # 1989
+Ireland vs Zimbabwe,Wessly Madhevere,4,2,c Balbirnie b White,2,5,0,0,40.00,T20I # 1989
+Ireland vs Zimbabwe,Tony Munyonga,5,2,c Campher b White,13,13,1,0,100.00,T20I # 1989
+Ireland vs Zimbabwe,Ryan Burl,6,2,not out ,30,11,3,2,272.72,T20I # 1989
+Ireland vs Zimbabwe,Clive Madande,7,2, b McCarthy,5,7,1,0,71.42,T20I # 1989
+Ireland vs Zimbabwe,Luke Jongwe,8,2,not out ,4,1,1,0,400.00,T20I # 1989
+New Zealand vs India,Finn Allen,1,1,c Yadav b Washington Sundar,35,23,4,2,152.17,T20I # 1990
+New Zealand vs India,Devon Conway,2,1,c Hooda b Arshdeep Singh,52,35,7,1,148.57,T20I # 1990
+New Zealand vs India,Mark Chapman,3,1,c & b Washington Sundar,0,4,0,0,0.00,T20I # 1990
+New Zealand vs India,Glenn Phillips,4,1,c Yadav b Kuldeep Yadav,17,22,1,0,77.27,T20I # 1990
+New Zealand vs India,Daryl Mitchell,5,1,not out ,59,30,3,5,196.66,T20I # 1990
+New Zealand vs India,Michael Bracewell,6,1,run out (†Ishan Kishan),1,2,0,0,50.00,T20I # 1990
+New Zealand vs India,Mitchell Santner,7,1,c Tripathi b Shivam Mavi,7,5,1,0,140.00,T20I # 1990
+New Zealand vs India,Ish Sodhi,8,1,not out ,0,0,0,0,-,T20I # 1990
+New Zealand vs India,Shubman Gill,1,2,c Allen b Santner,7,6,1,0,116.66,T20I # 1990
+New Zealand vs India,Ishan Kishan,2,2, b Bracewell,4,5,1,0,80.00,T20I # 1990
+New Zealand vs India,Rahul Tripathi,3,2,c †Conway b Duffy,0,6,0,0,0.00,T20I # 1990
+New Zealand vs India,Suryakumar Yadav,4,2,c Allen b Sodhi,47,34,6,2,138.23,T20I # 1990
+New Zealand vs India,Hardik Pandya,5,2,c & b Bracewell,21,20,1,1,105.00,T20I # 1990
+New Zealand vs India,Washington Sundar,6,2,c Duffy b Ferguson,50,28,5,3,178.57,T20I # 1990
+New Zealand vs India,Deepak Hooda,7,2,st †Conway b Santner,10,10,0,1,100.00,T20I # 1990
+New Zealand vs India,Shivam Mavi,8,2,run out (Santner),2,3,0,0,66.66,T20I # 1990
+New Zealand vs India,Kuldeep Yadav,9,2,c †Conway b Ferguson,0,1,0,0,0.00,T20I # 1990
+New Zealand vs India,Arshdeep Singh,10,2,not out ,0,6,0,0,0.00,T20I # 1990
+New Zealand vs India,Umran Malik,11,2,not out ,4,1,1,0,400.00,T20I # 1990
+New Zealand vs India,Finn Allen,1,1, b Chahal,11,10,2,0,110.00,T20I # 1991
+New Zealand vs India,Devon Conway,2,1,c †Ishan Kishan b Washington Sundar,11,14,1,0,78.57,T20I # 1991
+New Zealand vs India,Mark Chapman,3,1,run out (Kuldeep Yadav/†Ishan Kishan),14,21,0,0,66.66,T20I # 1991
+New Zealand vs India,Glenn Phillips,4,1, b Hooda,5,10,0,0,50.00,T20I # 1991
+New Zealand vs India,Daryl Mitchell,5,1, b Kuldeep Yadav,8,13,1,0,61.53,T20I # 1991
+New Zealand vs India,Michael Bracewell,6,1,c Arshdeep Singh b Pandya,14,22,0,0,63.63,T20I # 1991
+New Zealand vs India,Mitchell Santner,7,1,not out ,19,23,1,0,82.60,T20I # 1991
+New Zealand vs India,Ish Sodhi,8,1,c Pandya b Arshdeep Singh,1,2,0,0,50.00,T20I # 1991
+New Zealand vs India,Lockie Ferguson,9,1,c Washington Sundar b Arshdeep Singh,0,2,0,0,0.00,T20I # 1991
+New Zealand vs India,Jacob Duffy,10,1,not out ,6,3,1,0,200.00,T20I # 1991
+New Zealand vs India,Shubman Gill,1,2,c Allen b Bracewell,11,9,2,0,122.22,T20I # 1991
+New Zealand vs India,Ishan Kishan,2,2,run out (Phillips/Santner),19,32,2,0,59.37,T20I # 1991
+New Zealand vs India,Rahul Tripathi,3,2,c Phillips b Sodhi,13,18,1,0,72.22,T20I # 1991
+New Zealand vs India,Suryakumar Yadav,4,2,not out ,26,31,1,0,83.87,T20I # 1991
+New Zealand vs India,Washington Sundar,5,2,run out (Tickner),10,9,1,0,111.11,T20I # 1991
+New Zealand vs India,Hardik Pandya,6,2,not out ,15,20,1,0,75.00,T20I # 1991
+United Arab Emirates vs Afghanistan,Vriitya Aravind,1,1, b Azmatullah Omarzai,17,14,3,0,121.42,T20I # 1993
+United Arab Emirates vs Afghanistan,Muhammad Waseem,2,1,lbw b Rashid Khan,33,35,3,1,94.28,T20I # 1993
+United Arab Emirates vs Afghanistan,Chundangapoyil Rizwan,3,1,run out (Karim Janat/†Afsar Zazai),48,41,2,2,117.07,T20I # 1993
+United Arab Emirates vs Afghanistan,Basil Hameed,4,1,lbw b Rashid Khan,0,1,0,0,0.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Rohan Mustafa,5,1,not out ,22,15,2,0,146.66,T20I # 1993
+United Arab Emirates vs Afghanistan,Aayan Afzal Khan,6,1,run out (Fazalhaq Farooqi),18,13,3,0,138.46,T20I # 1993
+United Arab Emirates vs Afghanistan,Zawar Farid,7,1,not out ,0,1,0,0,0.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Hazratullah Zazai,1,2,c Muhammad Waseem b Junaid Siddique,1,4,0,0,25.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Rahmanullah Gurbaz,2,2,c Basil Hameed b Junaid Siddique,10,8,0,1,125.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Ibrahim Zadran,3,2,c †Aravind b Zahoor Khan,8,10,1,0,80.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Afsar Zazai,4,2,c Rizwan b Muhammad Jawadullah,48,40,4,2,120.00,T20I # 1993
+United Arab Emirates vs Afghanistan,Karim Janat,5,2,c Rohan Mustafa b Zawar Farid,53,38,2,3,139.47,T20I # 1993
+United Arab Emirates vs Afghanistan,Najibullah Zadran,6,2,not out ,16,12,1,1,133.33,T20I # 1993
+United Arab Emirates vs Afghanistan,Rashid Khan,7,2,not out ,3,3,0,0,100.00,T20I # 1993
+Afghanistan vs United Arab Emirates,Hazratullah Zazai,1,1,lbw b Zawar Farid,27,29,2,0,93.10,T20I # 1994
+Afghanistan vs United Arab Emirates,Rahmanullah Gurbaz,2,1,c Basil Hameed b Junaid Siddique,15,11,3,0,136.36,T20I # 1994
+Afghanistan vs United Arab Emirates,Ibrahim Zadran,3,1,c †Aravind b Zahoor Khan,1,4,0,0,25.00,T20I # 1994
+Afghanistan vs United Arab Emirates,Afsar Zazai,4,1,c †Aravind b Zawar Farid,18,24,2,0,75.00,T20I # 1994
+Afghanistan vs United Arab Emirates,Najibullah Zadran,5,1,not out ,37,29,5,1,127.58,T20I # 1994
+Afghanistan vs United Arab Emirates,Karim Janat,6,1,c Rohan Mustafa b Akif Raja,7,7,1,0,100.00,T20I # 1994
+Afghanistan vs United Arab Emirates,Azmatullah Omarzai,7,1,c Basil Hameed b Zahoor Khan,12,9,2,0,133.33,T20I # 1994
+Afghanistan vs United Arab Emirates,Rashid Khan,8,1,not out ,14,7,1,1,200.00,T20I # 1994
+Afghanistan vs United Arab Emirates,Muhammad Waseem,1,2,c Rashid Khan b Karim Janat,91,50,8,7,182.00,T20I # 1994
+Afghanistan vs United Arab Emirates,Vriitya Aravind,2,2,not out ,38,46,2,0,82.60,T20I # 1994
+Afghanistan vs United Arab Emirates,Chundangapoyil Rizwan,3,2,not out ,9,14,1,0,64.28,T20I # 1994
+United Arab Emirates vs Afghanistan,Muhammad Waseem,1,1,c Rashid Khan b Naveen-ul-Haq,75,50,8,3,150.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Vriitya Aravind,2,1,c Najibullah Zadran b Gulbadin Naib,59,53,7,1,111.32,T20I # 1995
+United Arab Emirates vs Afghanistan,Basil Hameed,3,1,lbw b Rashid Khan,3,4,0,0,75.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Rohan Mustafa,4,1,lbw b Rashid Khan,0,1,0,0,0.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Chundangapoyil Rizwan,5,1,run out (Gulbadin Naib),3,5,0,0,60.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Zawar Farid,6,1, b Gulbadin Naib,0,1,0,0,0.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Alishan Sharafu,7,1,not out ,7,5,1,0,140.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Aayan Afzal Khan,8,1,not out ,1,1,0,0,100.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Rahmanullah Gurbaz,1,2,c Muhammad Waseem b Zahoor Khan,20,15,3,0,133.33,T20I # 1995
+United Arab Emirates vs Afghanistan,Ibrahim Zadran,2,2,not out ,60,51,5,1,117.64,T20I # 1995
+United Arab Emirates vs Afghanistan,Gulbadin Naib,3,2,lbw b Zawar Farid,0,6,0,0,0.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Afsar Zazai,4,2,c Sharafu b Zahoor Khan,13,19,0,0,68.42,T20I # 1995
+United Arab Emirates vs Afghanistan,Najibullah Zadran,5,2,c Zahoor Khan b Akif Raja,1,2,0,0,50.00,T20I # 1995
+United Arab Emirates vs Afghanistan,Karim Janat,6,2,not out ,56,22,4,5,254.54,T20I # 1995
+Argentina vs Bermuda,Pedro Baron,1,1, b Burgess,15,12,2,1,125.00,T20I # 1996
+Argentina vs Bermuda,Ramiro Escobar,2,1,c †Smith b Brangman,0,1,0,0,0.00,T20I # 1996
+Argentina vs Bermuda,Alejandro Ferguson,3,1, b Burgess,11,7,1,1,157.14,T20I # 1996
+Argentina vs Bermuda,Lautaro Musiani,4,1,c Sabir b Jones,8,14,0,0,57.14,T20I # 1996
+Argentina vs Bermuda,Alan	Kirschbaum,5,1,c & b Rawlins,5,21,0,0,23.80,T20I # 1996
+Argentina vs Bermuda,Tomas Rossi,6,1, b Rawlins,5,13,0,0,38.46,T20I # 1996
+Argentina vs Bermuda,Pedro Arrighi,7,1,st †Smith b Jones,18,22,1,0,81.81,T20I # 1996
+Argentina vs Bermuda,Agustin Rivero,8,1,run out (Burgess/Jones),5,10,0,0,50.00,T20I # 1996
+Argentina vs Bermuda,Santiago Rossi,9,1,c Burgess b Rawlins,0,2,0,0,0.00,T20I # 1996
+Argentina vs Bermuda,Hernan Fennell,10,1,c Richardson b Rawlins,1,2,0,0,50.00,T20I # 1996
+Argentina vs Bermuda,Agustin Husain,11,1,not out ,0,0,0,0,-,T20I # 1996
+Argentina vs Bermuda,Kamau Leverock,1,2,c & b Fennell,13,10,1,1,130.00,T20I # 1996
+Argentina vs Bermuda,Terryn Fray,2,2,c Kirschbaum b Arrighi,2,8,0,0,25.00,T20I # 1996
+Argentina vs Bermuda,Tre Manders,3,2,c S Rossi b Husain,14,17,1,0,82.35,T20I # 1996
+Argentina vs Bermuda,Delray Rawlins,4,2,c S Rossi b Kirschbaum,16,22,2,0,72.72,T20I # 1996
+Argentina vs Bermuda,Malachi Jones,5,2,not out ,19,27,0,0,70.37,T20I # 1996
+Argentina vs Bermuda,Justin Pitcher,6,2,not out ,4,11,0,0,36.36,T20I # 1996
+Bermuda vs Argentina,Kamau Leverock,1,1,c Musiani b Arrighi,97,56,12,4,173.21,T20I # 1997
+Bermuda vs Argentina,Tre Manders,2,1,c Arrighi b Rossi,19,19,0,1,100.00,T20I # 1997
+Bermuda vs Argentina,Terryn Fray,3,1,lbw b Rossi,2,4,0,0,50.00,T20I # 1997
+Bermuda vs Argentina,Delray Rawlins,4,1, b Arrighi,91,33,6,9,275.75,T20I # 1997
+Bermuda vs Argentina,Malachi Jones,5,1,not out ,7,4,0,0,175.00,T20I # 1997
+Bermuda vs Argentina,Justin Pitcher,6,1,not out ,1,4,0,0,25.00,T20I # 1997
+Bermuda vs Argentina,Pedro Baron,1,2,c & b Rawlins,57,68,8,0,83.82,T20I # 1997
+Bermuda vs Argentina,Ramiro Escobar,2,2, b Leverock,1,7,0,0,14.28,T20I # 1997
+Bermuda vs Argentina,Alejandro Ferguson,3,2,c Rawlins b Brangman,26,22,4,0,118.18,T20I # 1997
+Bermuda vs Argentina,Lautaro Musiani,4,2, b Leverock,6,9,0,0,66.66,T20I # 1997
+Bermuda vs Argentina,Alan	Kirschbaum,5,2,c Albertze b Rawlins,14,14,2,0,100.00,T20I # 1997
+Bermuda vs Argentina,David Mauro,6,2,not out ,0,1,0,0,0.00,T20I # 1997
+Spain vs Isle of Man,Mohammad Ihsan,1,1,not out ,102,59,9,6,172.88,T20I # 1998
+Spain vs Isle of Man,Mohammad Yasin,2,1, b JA Burrows,14,10,3,0,140.00,T20I # 1998
+Spain vs Isle of Man,Ravi Panchal,3,1,retired hurt ,25,38,0,0,65.78,T20I # 1998
+Spain vs Isle of Man,Doyle-Calle,4,1,c McAuley b JA Burrows,20,10,0,2,200.00,T20I # 1998
+Spain vs Isle of Man,Mohammad Kamran,5,1,c Butler b JA Burrows,1,4,0,0,25.00,T20I # 1998
+Spain vs Isle of Man,Christian Munoz-Mills,6,1,not out ,1,1,0,0,100.00,T20I # 1998
+Spain vs Isle of Man,Adam McAuley,1,2,c Munoz-Mills b Rumistrzewicz,30,33,3,0,90.90,T20I # 1998
+Spain vs Isle of Man,Nathan Knights,2,2,lbw b Atif Mehmood,13,13,1,1,100.00,T20I # 1998
+Spain vs Isle of Man,George Burrows,3,2,c †Awais Ahmed b Doyle-Calle,8,18,0,0,44.44,T20I # 1998
+Spain vs Isle of Man,Carl Hartmann,4,2, b Ameer Hamzah,0,2,0,0,0.00,T20I # 1998
+Spain vs Isle of Man,Edward Beard,5,2,c Ameer Hamzah b Doyle-Calle,0,4,0,0,0.00,T20I # 1998
+Spain vs Isle of Man,Dollin Jansen,6,2,run out (Munoz-Mills),23,19,1,1,121.05,T20I # 1998
+Spain vs Isle of Man,Joseph Burrows,7,2,run out (Doyle-Calle),6,4,1,0,150.00,T20I # 1998
+Spain vs Isle of Man,Matthew Ansell,8,2,c †Awais Ahmed b Ameer Hamzah,0,2,0,0,0.00,T20I # 1998
+Spain vs Isle of Man,Jacob Butler,9,2,st †Awais Ahmed b Rumistrzewicz,1,4,0,0,25.00,T20I # 1998
+Spain vs Isle of Man,Fraser Clarke,10,2,not out ,0,4,0,0,0.00,T20I # 1998
+Spain vs Isle of Man,Kieran Cawte,11,2,c Atif Mehmood b Shafat Ali Syed,0,1,0,0,0.00,T20I # 1998
+Spain vs Isle of Man,Mohammad Yasin,1,1,c Jansen b Clarke,28,29,2,1,96.55,T20I # 1999
+Spain vs Isle of Man,Mohammad Ihsan,2,1,c G Burrows b Butler,34,18,4,2,188.88,T20I # 1999
+Spain vs Isle of Man,Adam Algar,3,1,c JA Burrows b Butler,28,30,1,1,93.33,T20I # 1999
+Spain vs Isle of Man,Doyle-Calle,4,1,not out ,39,19,2,3,205.26,T20I # 1999
+Spain vs Isle of Man,Mohammad Kamran,5,1,not out ,6,5,0,0,120.00,T20I # 1999
+Isle of Man vs Spain,Adam McAuley,1,1,c Munoz-Mills b Rumistrzewicz,29,31,3,0,93.54,T20I # 2000
+Isle of Man vs Spain,Nathan Knights,2,1,c Rumistrzewicz b Atif Mehmood,1,11,0,0,9.09,T20I # 2000
+Isle of Man vs Spain,Dollin Jansen,3,1,c Mohammad Kamran b Burns,13,19,2,0,68.42,T20I # 2000
+Isle of Man vs Spain,Carl Hartmann,4,1,c Munoz-Mills b Rumistrzewicz,4,4,1,0,100.00,T20I # 2000
+Isle of Man vs Spain,Edward Beard,5,1,lbw b Burns,2,3,0,0,66.66,T20I # 2000
+Isle of Man vs Spain,Christian Webster,6,1, b Rumistrzewicz,0,1,0,0,0.00,T20I # 2000
+Isle of Man vs Spain,Joseph Burrows,7,1,c Rumistrzewicz b Ameer Hamzah,2,3,0,0,66.66,T20I # 2000
+Isle of Man vs Spain,Matthew Ansell,8,1,c Doyle-Calle b Burns,1,4,0,0,25.00,T20I # 2000
+Isle of Man vs Spain,Jacob Butler,9,1, b Rumistrzewicz,3,5,0,0,60.00,T20I # 2000
+Isle of Man vs Spain,Fraser Clarke,10,1, b Mohammad Kamran,3,5,0,0,60.00,T20I # 2000
+Isle of Man vs Spain,Edward Walker,11,1,not out ,0,5,0,0,0.00,T20I # 2000
+Isle of Man vs Spain,Mohammad Ihsan,1,2,c Butler b Burrows,28,14,4,2,200.00,T20I # 2000
+Isle of Man vs Spain,Shafat Ali Syed,2,2,c Knights b Burrows,0,1,0,0,0.00,T20I # 2000
+Isle of Man vs Spain,Adam Algar,3,2,not out ,12,20,1,0,60.00,T20I # 2000
+Isle of Man vs Spain,Doyle-Calle,4,2,not out ,16,8,3,0,200.00,T20I # 2000
+Isle of Man vs Spain,Adam McAuley,1,1, b Mohammad Kamran,6,7,1,0,85.71,T20I # 2001
+Isle of Man vs Spain,Nathan Knights,2,1,c Panchal b Mohammad Kamran,0,9,0,0,0.00,T20I # 2001
+Isle of Man vs Spain,Dollin Jansen,3,1,c Munoz-Mills b Burns,14,12,2,0,116.66,T20I # 2001
+Isle of Man vs Spain,Carl Hartmann,4,1,c Burns b Mohammad Kamran,0,8,0,0,0.00,T20I # 2001
+Isle of Man vs Spain,Edward Beard,5,1,c Rumistrzewicz b Mohammad Kamran,33,32,3,1,103.12,T20I # 2001
+Isle of Man vs Spain,Christian Webster,6,1, b Burns,10,12,1,0,83.33,T20I # 2001
+Isle of Man vs Spain,Joseph Burrows,7,1, b Mohammad Kamran,28,26,5,0,107.69,T20I # 2001
+Isle of Man vs Spain,Matthew Ansell,8,1,c & b Robiul Khan,2,3,0,0,66.66,T20I # 2001
+Isle of Man vs Spain,Fraser Clarke,9,1,not out ,9,7,0,1,128.57,T20I # 2001
+Isle of Man vs Spain,Edward Walker,10,1,not out ,2,4,0,0,50.00,T20I # 2001
+Isle of Man vs Spain,Awais Ahmed,1,2,c Jansen b Burrows,0,1,0,0,0.00,T20I # 2001
+Isle of Man vs Spain,Mohammad Ihsan,2,2,c Webster b Clarke,28,17,2,2,164.70,T20I # 2001
+Isle of Man vs Spain,Ravi Panchal,3,2,c Burrows b Walker,22,22,0,2,100.00,T20I # 2001
+Isle of Man vs Spain,Doyle-Calle,4,2,not out ,27,21,0,2,128.57,T20I # 2001
+Isle of Man vs Spain,Mohammad Kamran,5,2,c & b Clarke,7,9,0,0,77.77,T20I # 2001
+Isle of Man vs Spain,Christian Munoz-Mills,6,2,not out ,30,22,3,1,136.36,T20I # 2001
+Panama vs Argentina,Mahmud Jasat,1,1, b Fennell,35,47,2,0,74.46,T20I # 2002
+Panama vs Argentina,Mohmad Sohel Patel,2,1,c Ferguson b T Rossi,42,30,3,3,140.00,T20I # 2002
+Panama vs Argentina,Sohel Patel,3,1,c S Rossi b T Rossi,22,15,2,0,146.66,T20I # 2002
+Panama vs Argentina,Vishal Ahir,4,1, b Husain,0,6,0,0,0.00,T20I # 2002
+Panama vs Argentina,Irfan Hafejee,5,1,c Rivero b Husain,0,1,0,0,0.00,T20I # 2002
+Panama vs Argentina,Anilkumar Natubhai Ahir,6,1,c Rivero b Arrighi,14,8,1,1,175.00,T20I # 2002
+Panama vs Argentina,Rahul Ahir,7,1,not out ,11,7,1,0,157.14,T20I # 2002
+Panama vs Argentina,Faizan Patel,8,1,c †Escobar b Fennell,5,5,1,0,100.00,T20I # 2002
+Panama vs Argentina,Ahmadi Ravat,9,1,lbw b Fennell,0,1,0,0,0.00,T20I # 2002
+Panama vs Argentina,Ahmed Patel,10,1,not out ,0,1,0,0,0.00,T20I # 2002
+Panama vs Argentina,Pedro Baron,1,2, b AM Patel,1,3,0,0,33.33,T20I # 2002
+Panama vs Argentina,Lautaro Musiani,2,2,c VC Ahir b KB Ahir,2,6,0,0,33.33,T20I # 2002
+Panama vs Argentina,Alejandro Ferguson,3,2,c KB Ahir b Sohel Patel,25,39,2,0,64.10,T20I # 2002
+Panama vs Argentina,Ramiro Escobar,4,2,st †Natubhai Ahir b Sohel Patel,18,22,1,0,81.81,T20I # 2002
+Panama vs Argentina,Alan	Kirschbaum,5,2,lbw b Irfan Hafejee,4,3,0,0,133.33,T20I # 2002
+Panama vs Argentina,Tomas Rossi,6,2, b Irfan Hafejee,5,4,0,0,125.00,T20I # 2002
+Panama vs Argentina,Santiago Rossi,7,2,st †Natubhai Ahir b RDB Ahir,10,9,0,0,111.11,T20I # 2002
+Panama vs Argentina,Agustin Rivero,8,2,lbw b RDB Ahir,3,5,0,0,60.00,T20I # 2002
+Panama vs Argentina,Pedro Arrighi,9,2,c Mahmud Jasat b KB Ahir,9,9,0,0,100.00,T20I # 2002
+Panama vs Argentina,Hernan Fennell,10,2,c RDB Ahir b KB Ahir,2,3,0,0,66.66,T20I # 2002
+Panama vs Argentina,Agustin Husain,11,2,not out ,0,0,0,0,-,T20I # 2002
+Bermuda vs Cayman Islands,Kamau Leverock,1,1,st †Sealy b A Wright,48,30,3,3,160.00,T20I # 2003
+Bermuda vs Cayman Islands,Tre Manders,2,1,c †Sealy b A Wright,26,20,3,1,130.00,T20I # 2003
+Bermuda vs Cayman Islands,Delray Rawlins,3,1,not out ,59,43,4,3,137.20,T20I # 2003
+Bermuda vs Cayman Islands,Terryn Fray,4,1,lbw b Manning,21,25,1,0,84.00,T20I # 2003
+Bermuda vs Cayman Islands,Malachi Jones,5,1,not out ,2,3,0,0,66.66,T20I # 2003
+Bermuda vs Cayman Islands,Sacha De Alwis,1,2,c Burgess b Leverock,4,8,1,0,50.00,T20I # 2003
+Bermuda vs Cayman Islands,Omar Willis,2,2,c Jones b Burgess,2,4,0,0,50.00,T20I # 2003
+Bermuda vs Cayman Islands,Ramon Sealy,3,2,c Jones b Brangman,14,18,1,1,77.77,T20I # 2003
+Bermuda vs Cayman Islands,Patrick Heron,4,2, b Leverock,0,3,0,0,0.00,T20I # 2003
+Bermuda vs Cayman Islands,Paul Manning,5,2,lbw b Burgess,5,5,0,0,100.00,T20I # 2003
+Bermuda vs Cayman Islands,Alistair Ifill,6,2,c †Smith b Rawlins,25,39,1,0,64.10,T20I # 2003
+Bermuda vs Cayman Islands,Conroy Wright,7,2,c Leverock b Jones,6,11,0,0,54.54,T20I # 2003
+Bermuda vs Cayman Islands,Demar Johnson,8,2,c Burgess b Brangman,1,4,0,0,25.00,T20I # 2003
+Bermuda vs Cayman Islands,Troy Taylor,9,2,c Pitcher b Leverock,11,16,1,0,68.75,T20I # 2003
+Bermuda vs Cayman Islands,Adrian Wright,10,2,not out ,3,11,0,0,27.27,T20I # 2003
+Bermuda vs Cayman Islands,Thilina Hewa,11,2,not out ,0,1,0,0,0.00,T20I # 2003
+Isle of Man vs Spain,Adam McAuley,1,1,st †Mohammad Ihsan b Burns,24,27,3,0,88.88,T20I # 2004
+Isle of Man vs Spain,Nathan Knights,2,1, b Atif Mehmood,0,1,0,0,0.00,T20I # 2004
+Isle of Man vs Spain,Dollin Jansen,3,1, b Burns,27,32,1,1,84.37,T20I # 2004
+Isle of Man vs Spain,Carl Hartmann,4,1,c Munoz-Mills b Shafat Ali Syed,17,19,0,1,89.47,T20I # 2004
+Isle of Man vs Spain,Edward Beard,5,1, b Shafat Ali Syed,3,8,0,0,37.50,T20I # 2004
+Isle of Man vs Spain,Christian Webster,6,1,c Munoz-Mills b Shafat Ali Syed,41,20,2,4,205.00,T20I # 2004
+Isle of Man vs Spain,Joseph Burrows,7,1,c Doyle-Calle b Shafat Ali Syed,0,1,0,0,0.00,T20I # 2004
+Isle of Man vs Spain,Jacob Butler,8,1,not out ,8,11,0,0,72.72,T20I # 2004
+Isle of Man vs Spain,Fraser Clarke,9,1,c Panchal b Shafat Ali Syed,0,1,0,0,0.00,T20I # 2004
+Isle of Man vs Spain,Edward Walker,10,1,not out ,1,1,0,0,100.00,T20I # 2004
+Isle of Man vs Spain,Mohammad Ihsan,1,2,c Webster b Butler,45,29,7,1,155.17,T20I # 2004
+Isle of Man vs Spain,Shafat Ali Syed,2,2,c Jansen b Clarke,51,23,2,6,221.73,T20I # 2004
+Isle of Man vs Spain,Ravi Panchal,3,2,not out ,8,10,1,0,80.00,T20I # 2004
+Isle of Man vs Spain,Doyle-Calle,4,2,c Burrows b Butler,8,7,1,0,114.28,T20I # 2004
+Isle of Man vs Spain,Lorne Burns,5,2,not out ,9,7,1,0,128.57,T20I # 2004
+Isle of Man vs Spain,Adam McAuley,1,1,c †Awais Ahmed b Mohammad Kamran,0,1,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,George Burrows,2,1,lbw b Atif Mehmood,2,3,0,0,66.66,T20I # 2005
+Isle of Man vs Spain,Luke Ward,3,1, b Mohammad Kamran,2,7,0,0,28.57,T20I # 2005
+Isle of Man vs Spain,Carl Hartmann,4,1,c Munoz-Mills b Atif Mehmood,0,3,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Edward Beard,5,1,lbw b Mohammad Kamran,0,1,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Christian Webster,6,1, b Mohammad Kamran,0,1,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Joseph Burrows,7,1,c Doyle-Calle b Atif Mehmood,4,7,0,0,57.14,T20I # 2005
+Isle of Man vs Spain,Jacob Butler,8,1, b Atif Mehmood,2,5,0,0,40.00,T20I # 2005
+Isle of Man vs Spain,Fraser Clarke,9,1,c †Awais Ahmed b Burns,0,12,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Edward Walker,10,1,not out ,0,9,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Kieran Cawte,11,1,st †Awais Ahmed b Burns,0,3,0,0,0.00,T20I # 2005
+Isle of Man vs Spain,Awais Ahmed,1,2,not out ,12,3,0,2,400.00,T20I # 2005
+Isle of Man vs Spain,Mohammad Ihsan,2,2,not out ,0,0,0,0,-,T20I # 2005
+Panama vs Bahamas,Mahmud Jasat,1,1, b Hinds,10,9,2,0,111.11,T20I # 2006
+Panama vs Bahamas,Mohmad Sohel Patel,2,1, b Scott,5,6,1,0,83.33,T20I # 2006
+Panama vs Bahamas,Irfan Hafejee,3,1,c †Jemison b Scott,3,5,0,0,60.00,T20I # 2006
+Panama vs Bahamas,Sohel Patel,4,1,c GT Taylor b Ekanayake,18,28,2,0,64.28,T20I # 2006
+Panama vs Bahamas,Anilkumar Natubhai Ahir,5,1,c †Jemison b Barry,1,5,0,0,20.00,T20I # 2006
+Panama vs Bahamas,Rahul Ahir,6,1,c & b Barry,0,2,0,0,0.00,T20I # 2006
+Panama vs Bahamas,Huzaifa Patel,7,1, b M Taylor,21,20,2,0,105.00,T20I # 2006
+Panama vs Bahamas,Faizan Patel,8,1, b Festus Benn,23,24,2,0,95.83,T20I # 2006
+Panama vs Bahamas,Nikunj Ahir,9,1,not out ,15,17,1,0,88.23,T20I # 2006
+Panama vs Bahamas,Abdullah Jasat,10,1,c †Jemison b Hinds,0,3,0,0,0.00,T20I # 2006
+Panama vs Bahamas,Khengar Bhal Ahir,11,1,not out ,1,1,0,0,100.00,T20I # 2006
+Panama vs Bahamas,Marc Taylor,1,2,st †Natubhai Ahir b Sohel Patel,49,32,6,3,153.12,T20I # 2006
+Panama vs Bahamas,Narendra Ekanayake,2,2, b RDB Ahir,19,18,3,1,105.55,T20I # 2006
+Panama vs Bahamas,Kervon Hinds,3,2,st †Natubhai Ahir b RDB Ahir,4,9,0,0,44.44,T20I # 2006
+Panama vs Bahamas,Gregory Taylor,4,2,lbw b Sohel Patel,0,1,0,0,0.00,T20I # 2006
+Panama vs Bahamas,Sandeep Goud,5,2,c Irfan Hafejee b RDB Ahir,2,5,0,0,40.00,T20I # 2006
+Panama vs Bahamas,Festus Benn,6,2,not out ,11,14,2,0,78.57,T20I # 2006
+Panama vs Bahamas,Turan Brown,7,2,lbw b Irfan Hafejee,8,28,0,0,28.57,T20I # 2006
+Panama vs Bahamas,Dwight Wheatley,8,2,not out ,2,4,0,0,50.00,T20I # 2006
+Bermuda vs Argentina,Kamau Leverock,1,1,c Musiani b Fennell,3,7,0,0,42.85,T20I # 2007
+Bermuda vs Argentina,Tre Manders,2,1,c Ferguson b Kirschbaum,74,41,9,4,180.48,T20I # 2007
+Bermuda vs Argentina,Terryn Fray,3,1,not out ,62,48,6,2,129.16,T20I # 2007
+Bermuda vs Argentina,Delray Rawlins,4,1,not out ,67,25,4,6,268.00,T20I # 2007
+Bermuda vs Argentina,Pedro Baron,1,2, b Rawlins,11,10,2,0,110.00,T20I # 2007
+Bermuda vs Argentina,Lautaro Musiani,2,2, b Rawlins,0,1,0,0,0.00,T20I # 2007
+Bermuda vs Argentina,Alejandro Ferguson,3,2,c Manders b Brangman,32,32,6,0,100.00,T20I # 2007
+Bermuda vs Argentina,Ramiro Escobar,4,2, b Jones,14,21,1,0,66.66,T20I # 2007
+Bermuda vs Argentina,Alan	Kirschbaum,5,2,st †Smith b Rawlins,10,13,1,0,76.92,T20I # 2007
+Bermuda vs Argentina,Tomas Rossi,6,2,c Leverock b Rawlins,2,4,0,0,50.00,T20I # 2007
+Bermuda vs Argentina,David Mauro,7,2,not out ,12,14,0,0,85.71,T20I # 2007
+Bermuda vs Argentina,Santiago Rossi,8,2, b Jones,0,3,0,0,0.00,T20I # 2007
+Bermuda vs Argentina,Agustin Rivero,9,2, b Jones,0,2,0,0,0.00,T20I # 2007
+Bermuda vs Argentina,Hernan Fennell,10,2, b Burgess,8,13,1,0,61.53,T20I # 2007
+Bermuda vs Argentina,Agustin Husain,11,2,not out ,5,7,1,0,71.42,T20I # 2007
+Cayman Islands vs Bahamas,Sacha De Alwis,1,1,c Festus Benn b Hinds,74,57,6,5,129.82,T20I # 2008
+Cayman Islands vs Bahamas,Brian Corbin,2,1,c Festus Benn b Hinds,15,14,3,0,107.14,T20I # 2008
+Cayman Islands vs Bahamas,Paul Manning,3,1,st †Jemison b M Taylor,17,18,1,0,94.44,T20I # 2008
+Cayman Islands vs Bahamas,Ramon Sealy,4,1,c Hinds b Festus Benn,4,5,0,0,80.00,T20I # 2008
+Cayman Islands vs Bahamas,Patrick Heron,5,1,c Wheatley b Festus Benn,2,6,0,0,33.33,T20I # 2008
+Cayman Islands vs Bahamas,Alistair Ifill,6,1,c M Taylor b Hinds,4,6,0,0,66.66,T20I # 2008
+Cayman Islands vs Bahamas,Conroy Wright,7,1,c M Taylor b Ekanayake,4,7,0,0,57.14,T20I # 2008
+Cayman Islands vs Bahamas,Troy Taylor,8,1, b Hinds,2,2,0,0,100.00,T20I # 2008
+Cayman Islands vs Bahamas,Adrian Wright,9,1, b Hinds,0,3,0,0,0.00,T20I # 2008
+Cayman Islands vs Bahamas,Jahmeal Buchanan,10,1,not out ,0,0,0,0,-,T20I # 2008
+Cayman Islands vs Bahamas,Thilina Hewa,11,1,c Sandeep Goud b Ekanayake,0,1,0,0,0.00,T20I # 2008
+Cayman Islands vs Bahamas,Marc Taylor,1,2,c A Wright b Buchanan,35,37,4,1,94.59,T20I # 2008
+Cayman Islands vs Bahamas,Narendra Ekanayake,2,2,c Hewa b Taylor,3,6,0,0,50.00,T20I # 2008
+Cayman Islands vs Bahamas,Kervon Hinds,3,2, b Ifill,2,6,0,0,33.33,T20I # 2008
+Cayman Islands vs Bahamas,Gregory Taylor,4,2,c †Sealy b A Wright,2,4,0,0,50.00,T20I # 2008
+Cayman Islands vs Bahamas,Turan Brown,5,2,lbw b Ifill,0,2,0,0,0.00,T20I # 2008
+Cayman Islands vs Bahamas,Festus Benn,6,2,not out ,14,27,0,0,51.85,T20I # 2008
+Cayman Islands vs Bahamas,Julio Jemison,7,2,c Manning b Buchanan,0,1,0,0,0.00,T20I # 2008
+Cayman Islands vs Bahamas,Sandeep Goud,8,2, b Manning,1,5,0,0,20.00,T20I # 2008
+Cayman Islands vs Bahamas,Jonathan Barry,9,2,c Ifill b C Wright,22,25,1,0,88.00,T20I # 2008
+Cayman Islands vs Bahamas,Dwight Wheatley,10,2,not out ,1,8,0,0,12.50,T20I # 2008
+Bermuda vs Panama,Kamau Leverock,1,1,c M Sohel Patel b Natubhai Ahir,103,58,10,6,177.58,T20I # 2009
+Bermuda vs Panama,Tre Manders,2,1,not out ,67,55,3,4,121.81,T20I # 2009
+Bermuda vs Panama,Delray Rawlins,3,1,not out ,7,7,1,0,100.00,T20I # 2009
+Bermuda vs Panama,Mahmud Jasat,1,2,c sub (JT Darrell) b Burgess,16,17,1,1,94.11,T20I # 2009
+Bermuda vs Panama,Mohmad Sohel Patel,2,2, b Leverock,9,7,2,0,128.57,T20I # 2009
+Bermuda vs Panama,Sohel Patel,3,2, b Leverock,6,7,1,0,85.71,T20I # 2009
+Bermuda vs Panama,Irfan Hafejee,4,2,c Leverock b Pitcher,25,37,3,0,67.56,T20I # 2009
+Bermuda vs Panama,Rahul Ahir,5,2,c sub (JT Darrell) b Rawlins,15,15,0,1,100.00,T20I # 2009
+Bermuda vs Panama,Anilkumar Natubhai Ahir,6,2,run out (sub [JT Darrell]/†Smith),51,34,2,4,150.00,T20I # 2009
+Bermuda vs Panama,Vishal Ahir,7,2,not out ,3,3,0,0,100.00,T20I # 2009
+Cayman Islands vs Panama,Sacha De Alwis,1,1,c Mahmud Jasat b KB Ahir,1,3,0,0,33.33,T20I # 2010
+Cayman Islands vs Panama,Brian Corbin,2,1,c Sohel Patel b KB Ahir,11,9,2,0,122.22,T20I # 2010
+Cayman Islands vs Panama,Paul Manning,3,1, b Irfan Hafejee,20,22,2,0,90.90,T20I # 2010
+Cayman Islands vs Panama,Ramon Sealy,4,1,c †HJ Patel b Irfan Hafejee,38,29,3,1,131.03,T20I # 2010
+Cayman Islands vs Panama,Alistair Ifill,5,1,c Sohel Patel b Irfan Hafejee,11,15,1,0,73.33,T20I # 2010
+Cayman Islands vs Panama,Paul Chin,6,1,run out (Natubhai Ahir),27,25,1,0,108.00,T20I # 2010
+Cayman Islands vs Panama,Jahmeal Buchanan,7,1,c RDB Ahir b Abdullah Jasat,10,12,0,0,83.33,T20I # 2010
+Cayman Islands vs Panama,Demar Johnson,8,1,not out ,5,6,0,0,83.33,T20I # 2010
+Cayman Islands vs Panama,Conroy Wright,9,1,not out ,0,0,0,0,-,T20I # 2010
+Cayman Islands vs Panama,Mahmud Jasat,1,2,c & b Ifill,19,25,0,1,76.00,T20I # 2010
+Cayman Islands vs Panama,Mohmad Sohel Patel,2,2,c Manning b C Wright,0,1,0,0,0.00,T20I # 2010
+Cayman Islands vs Panama,Sohel Patel,3,2, b C Wright,5,8,1,0,62.50,T20I # 2010
+Cayman Islands vs Panama,Irfan Hafejee,4,2,c Sealy b Ifill,17,38,1,0,44.73,T20I # 2010
+Cayman Islands vs Panama,Vishal Ahir,5,2,c Hewa b Johnson,24,13,1,2,184.61,T20I # 2010
+Cayman Islands vs Panama,Anilkumar Natubhai Ahir,6,2,c C Wright b Ifill,19,13,2,1,146.15,T20I # 2010
+Cayman Islands vs Panama,Faizan Patel,7,2,c Sealy b C Wright,4,3,1,0,133.33,T20I # 2010
+Cayman Islands vs Panama,Rahul Ahir,8,2,run out (Sealy/Johnson),21,10,2,1,210.00,T20I # 2010
+Cayman Islands vs Panama,Abdullah Jasat,9,2,run out (Sealy),3,2,0,0,150.00,T20I # 2010
+Cayman Islands vs Panama,Huzaifa Patel,10,2,c Manning b Johnson,4,5,0,0,80.00,T20I # 2010
+Cayman Islands vs Panama,Khengar Bhal Ahir,11,2,not out ,0,1,0,0,0.00,T20I # 2010
+Argentina vs Bahamas,Pedro Baron,1,1,c Sandeep Goud b M Taylor,26,25,3,0,104.00,T20I # 2011
+Argentina vs Bahamas,Tomas Rossi,2,1,c Sandeep Goud b Hinds,9,10,1,0,90.00,T20I # 2011
+Argentina vs Bahamas,Alejandro Ferguson,3,1,st †Jemison b M Taylor,7,17,0,0,41.17,T20I # 2011
+Argentina vs Bahamas,Alan	Kirschbaum,4,1,c & b M Taylor,2,5,0,0,40.00,T20I # 2011
+Argentina vs Bahamas,Lautaro Musiani,5,1,not out ,44,34,0,1,129.41,T20I # 2011
+Argentina vs Bahamas,Ramiro Escobar,6,1,lbw b Barry,9,19,1,0,47.36,T20I # 2011
+Argentina vs Bahamas,Santiago Rossi,7,1,lbw b Barry,0,1,0,0,0.00,T20I # 2011
+Argentina vs Bahamas,Agustin Rivero,8,1, b Barry,0,2,0,0,0.00,T20I # 2011
+Argentina vs Bahamas,David Mauro,9,1,not out ,5,9,0,0,55.55,T20I # 2011
+Argentina vs Bahamas,Marc Taylor,1,2,c †Escobar b T Rossi,2,9,0,0,22.22,T20I # 2011
+Argentina vs Bahamas,Narendra Ekanayake,2,2, b Fennell,1,6,0,0,16.66,T20I # 2011
+Argentina vs Bahamas,Festus Benn,3,2,c S Rossi b Fennell,4,5,0,0,80.00,T20I # 2011
+Argentina vs Bahamas,Dwight Wheatley,4,2, b T Rossi,1,5,0,0,20.00,T20I # 2011
+Argentina vs Bahamas,Kervon Hinds,5,2,lbw b Fennell,0,1,0,0,0.00,T20I # 2011
+Argentina vs Bahamas,Turan Brown,6,2, b Kirschbaum,7,21,0,0,33.33,T20I # 2011
+Argentina vs Bahamas,Gregory Taylor,7,2,c S Rossi b Rivero,19,29,2,0,65.51,T20I # 2011
+Argentina vs Bahamas,Sandeep Goud,8,2,c Baron b Kirschbaum,12,16,0,1,75.00,T20I # 2011
+Argentina vs Bahamas,Junior Scott,9,2,st †Escobar b Husain,4,5,0,0,80.00,T20I # 2011
+Argentina vs Bahamas,Julio Jemison,10,2, b Fennell,7,11,1,0,63.63,T20I # 2011
+Argentina vs Bahamas,Jonathan Barry,11,2,not out ,4,9,0,0,44.44,T20I # 2011
+Bahamas vs Bermuda,Marc Taylor,1,1,c Pitcher b Darrell,3,14,0,0,21.42,T20I # 2012
+Bahamas vs Bermuda,Jonathan Barry,2,1,not out ,30,51,2,0,58.82,T20I # 2012
+Bahamas vs Bermuda,Festus Benn,3,1,c Fray b Brangman,0,3,0,0,0.00,T20I # 2012
+Bahamas vs Bermuda,Gregory Taylor,4,1,c & b Brangman,0,2,0,0,0.00,T20I # 2012
+Bahamas vs Bermuda,Turan Brown,5,1,c Jones b Leverock,3,6,0,0,50.00,T20I # 2012
+Bahamas vs Bermuda,Kervon Hinds,6,1,c & b Jones,5,7,0,0,71.42,T20I # 2012
+Bahamas vs Bermuda,Julio Jemison,7,1,c & b Rawlins,1,7,0,0,14.28,T20I # 2012
+Bahamas vs Bermuda,Sandeep Goud,8,1, b Rawlins,1,4,0,0,25.00,T20I # 2012
+Bahamas vs Bermuda,Dwight Wheatley,9,1,c Manders b Brangman,16,11,1,1,145.45,T20I # 2012
+Bahamas vs Bermuda,Junior Scott,10,1,lbw b Brangman,0,2,0,0,0.00,T20I # 2012
+Bahamas vs Bermuda,Narendra Ekanayake,11,1,not out ,7,13,0,0,53.84,T20I # 2012
+Bahamas vs Bermuda,Kamau Leverock,1,2,not out ,48,26,7,2,184.61,T20I # 2012
+Bahamas vs Bermuda,Tre Manders,2,2,c M Taylor b Barry,13,13,2,0,100.00,T20I # 2012
+Bahamas vs Bermuda,Terryn Fray,3,2,not out ,9,6,2,0,150.00,T20I # 2012
+Argentina vs Cayman Islands,Pedro Baron,1,1,lbw b Taylor,18,16,3,0,112.50,T20I # 2013
+Argentina vs Cayman Islands,Tomas Rossi,2,1, b Taylor,1,2,0,0,50.00,T20I # 2013
+Argentina vs Cayman Islands,Alejandro Ferguson,3,1,c Ifill b C Wright,50,56,6,0,89.28,T20I # 2013
+Argentina vs Cayman Islands,Alan	Kirschbaum,4,1, b A Wright,22,20,2,1,110.00,T20I # 2013
+Argentina vs Cayman Islands,Lautaro Musiani,5,1,c Taylor b Ifill,7,8,0,0,87.50,T20I # 2013
+Argentina vs Cayman Islands,Santiago Rossi,6,1, b Ifill,0,1,0,0,0.00,T20I # 2013
+Argentina vs Cayman Islands,Ramiro Escobar,7,1,not out ,12,11,0,0,109.09,T20I # 2013
+Argentina vs Cayman Islands,Agustin Rivero,8,1, b Taylor,5,4,0,0,125.00,T20I # 2013
+Argentina vs Cayman Islands,Hernan Fennell,9,1,not out ,4,2,1,0,200.00,T20I # 2013
+Argentina vs Cayman Islands,Sacha De Alwis,1,2,run out (Rivero/†Escobar),44,41,5,1,107.31,T20I # 2013
+Argentina vs Cayman Islands,Brian Corbin,2,2, b T Rossi,11,7,1,1,157.14,T20I # 2013
+Argentina vs Cayman Islands,Paul Manning,3,2,run out (Ferguson),31,37,3,1,83.78,T20I # 2013
+Argentina vs Cayman Islands,Ramon Sealy,4,2,c Mauro b S Rossi,1,2,0,0,50.00,T20I # 2013
+Argentina vs Cayman Islands,Alistair Ifill,5,2, b S Rossi,8,8,1,0,100.00,T20I # 2013
+Argentina vs Cayman Islands,Paul Chin,6,2,c Kirschbaum b Fennell,6,13,0,0,46.15,T20I # 2013
+Argentina vs Cayman Islands,Demar Johnson,7,2,run out (Rivero/†Escobar),5,6,0,0,83.33,T20I # 2013
+Argentina vs Cayman Islands,Troy Taylor,8,2,not out ,2,3,0,0,66.66,T20I # 2013
+Argentina vs Cayman Islands,Conroy Wright,9,2,not out ,4,4,0,0,100.00,T20I # 2013
+Kuwait vs Malaysia,Meet Bhavsar,1,1,c Rizwan Haider b Fitri Sham,67,41,7,3,163.41,T20I # 2014
+Kuwait vs Malaysia,Ravija Sandaruwan,2,1, b Vijay Unni,1,3,0,0,33.33,T20I # 2014
+Kuwait vs Malaysia,Adnan Idrees,3,1,c Muhammad Wafiq b Vijay Unni,13,13,2,0,100.00,T20I # 2014
+Kuwait vs Malaysia,Usman Patel,4,1,c Ahmed Faiz b Vijay Unni,1,7,0,0,14.28,T20I # 2014
+Kuwait vs Malaysia,Mohammed Aslam,5,1,c Zubaidi Zulkifle b Muniandy,7,12,1,0,58.33,T20I # 2014
+Kuwait vs Malaysia,Shiraz Khan,6,1, b Fitri Sham,9,15,0,0,60.00,T20I # 2014
+Kuwait vs Malaysia,Bilal Tahir,7,1,c Ahmed Faiz b Muhammad Wafiq,15,12,1,1,125.00,T20I # 2014
+Kuwait vs Malaysia,Ali Zaheer,8,1,not out ,11,9,2,0,122.22,T20I # 2014
+Kuwait vs Malaysia,Sayed Monib,9,1,c Muniandy b Rizwan Haider,19,5,0,3,380.00,T20I # 2014
+Kuwait vs Malaysia,Mohamed Shafeeq,10,1,c Vijay Unni b Rizwan Haider,4,2,1,0,200.00,T20I # 2014
+Kuwait vs Malaysia,Yasin Patel,11,1,not out ,0,1,0,0,0.00,T20I # 2014
+Kuwait vs Malaysia,Zubaidi Zulkifle,1,2,run out (Aslam),5,4,1,0,125.00,T20I # 2014
+Kuwait vs Malaysia,Virandeep Singh,2,2,not out ,58,52,5,2,111.53,T20I # 2014
+Kuwait vs Malaysia,Muhammad Amir,3,2,c Bilal Tahir b Sayed Monib,4,4,1,0,100.00,T20I # 2014
+Kuwait vs Malaysia,Syed Aziz,4,2,c Bilal Tahir b Aslam,30,13,6,1,230.76,T20I # 2014
+Kuwait vs Malaysia,Ahmad Faiz,5,2,c Sandaruwan b Shiraz Khan,10,17,1,0,58.82,T20I # 2014
+Kuwait vs Malaysia,Mohamed Arief,6,2,c Bilal Tahir b Sayed Monib,13,12,2,0,108.33,T20I # 2014
+Kuwait vs Malaysia,Sharvin Muniandy,7,2,c Sandaruwan b Sayed Monib,2,3,0,0,66.66,T20I # 2014
+Kuwait vs Malaysia,Vijay Unni,8,2,c Bilal Tahir b Adnan Idrees,11,5,1,1,220.00,T20I # 2014
+Kuwait vs Malaysia,Fitri Sham,9,2,not out ,13,5,0,2,260.00,T20I # 2014
+Hong Kong vs Bahrain,Nizakat Khan,1,1,c Veerapathiran b Abdul Majid,37,30,2,1,123.33,T20I # 2015
+Hong Kong vs Bahrain,Anshy Rath,2,1,c Rizwan Butt b Sarfaraz Ali,21,27,1,0,77.77,T20I # 2015
+Hong Kong vs Bahrain,Babar Hayat,3,1,lbw b Imran Anwar,7,12,0,0,58.33,T20I # 2015
+Hong Kong vs Bahrain,Kinchit Shah,4,1,c Imran Anwar b Veerapathiran,8,9,1,0,88.88,T20I # 2015
+Hong Kong vs Bahrain,Aizaz Khan,5,1,not out ,42,26,5,1,161.53,T20I # 2015
+Hong Kong vs Bahrain,Yasim Murtaza,6,1,not out ,29,19,2,1,152.63,T20I # 2015
+Hong Kong vs Bahrain,Sarfaraz Ali,1,2,run out (Ehsan Khan/†Zeeshan Ali),13,10,1,1,130.00,T20I # 2015
+Hong Kong vs Bahrain,Shahbaz Badar,2,2,c Mohammad Ghazanfar b Ehsan Khan,8,4,2,0,200.00,T20I # 2015
+Hong Kong vs Bahrain,Imran Anwar,3,2,c & b Aizaz Khan,29,15,2,3,193.33,T20I # 2015
+Hong Kong vs Bahrain,Sohail Ahmed,4,2,c Haroon Arshad b Aizaz Khan,19,29,1,0,65.51,T20I # 2015
+Hong Kong vs Bahrain,Haider Butt,5,2,lbw b Mohammad Ghazanfar,21,19,1,0,110.52,T20I # 2015
+Hong Kong vs Bahrain,Ahmer Bin Nisar,6,2,c Nasrulla Rana b Mohammad Ghazanfar,10,9,1,0,111.11,T20I # 2015
+Hong Kong vs Bahrain,Sathaiya Veerapathiran,7,2,c Haroon Arshad b Mohammad Ghazanfar,5,5,1,0,100.00,T20I # 2015
+Hong Kong vs Bahrain,Junaid Aziz,8,2,c Yasim Murtaza b Haroon Arshad,12,13,1,0,92.30,T20I # 2015
+Hong Kong vs Bahrain,Ali Dawood,9,2,lbw b Ehsan Khan,7,6,1,0,116.66,T20I # 2015
+Hong Kong vs Bahrain,Rizwan Butt,10,2,c & b Ehsan Khan,4,6,0,0,66.66,T20I # 2015
+Hong Kong vs Bahrain,Abdul Majid,11,2,not out ,0,1,0,0,0.00,T20I # 2015
+Malaysia vs Bahrain,Zubaidi Zulkifle,1,1, b Veerapathiran,27,19,2,2,142.10,T20I # 2016
+Malaysia vs Bahrain,Virandeep Singh,2,1, b Ali Dawood,5,5,1,0,100.00,T20I # 2016
+Malaysia vs Bahrain,Muhammad Amir,3,1,c Haider Butt b Rizwan Butt,80,52,8,3,153.84,T20I # 2016
+Malaysia vs Bahrain,Syed Aziz,4,1,run out (Haider Butt/†Shahbaz Badar),6,4,1,0,150.00,T20I # 2016
+Malaysia vs Bahrain,Ahmad Faiz,5,1,c Haider Butt b Veerapathiran,37,19,3,2,194.73,T20I # 2016
+Malaysia vs Bahrain,Sharvin Muniandy,6,1,not out ,23,13,0,2,176.92,T20I # 2016
+Malaysia vs Bahrain,Mohamed Arief,7,1, b Rizwan Butt,5,7,0,0,71.42,T20I # 2016
+Malaysia vs Bahrain,Vijay Unni,8,1,not out ,1,2,0,0,50.00,T20I # 2016
+Malaysia vs Bahrain,Shahbaz Badar,1,2, b Rizwan Haider,0,3,0,0,0.00,T20I # 2016
+Malaysia vs Bahrain,Sarfaraz Ali,2,2, b Vijay Unni,8,4,0,1,200.00,T20I # 2016
+Malaysia vs Bahrain,Imran Anwar,3,2,c Mohamed Arief b Rizwan Haider,8,5,0,1,160.00,T20I # 2016
+Malaysia vs Bahrain,Sohail Ahmed,4,2,c & b Muniandy,65,46,4,3,141.30,T20I # 2016
+Malaysia vs Bahrain,Haider Butt,5,2,c Zubaidi Zulkifle b Rizwan Haider,25,24,1,1,104.16,T20I # 2016
+Malaysia vs Bahrain,Ahmer Bin Nisar,6,2,c Muniandy b Fitri Sham,11,8,2,0,137.50,T20I # 2016
+Malaysia vs Bahrain,Junaid Aziz,7,2,c Muhammad Amir b Fitri Sham,2,4,0,0,50.00,T20I # 2016
+Malaysia vs Bahrain,Sathaiya Veerapathiran,8,2,c Muhammad Amir b Fitri Sham,7,7,1,0,100.00,T20I # 2016
+Malaysia vs Bahrain,Rizwan Butt,9,2,c Muniandy b Rizwan Haider,9,7,1,0,128.57,T20I # 2016
+Malaysia vs Bahrain,Abdul Majid,10,2,not out ,4,10,0,0,40.00,T20I # 2016
+Malaysia vs Bahrain,Ali Dawood,11,2,not out ,0,2,0,0,0.00,T20I # 2016
+Hong Kong vs Kuwait,Nizakat Khan,1,1,c †Usman Patel b Shahrukh Quddus,20,9,3,1,222.22,T20I # 2017
+Hong Kong vs Kuwait,Anshy Rath,2,1, b Bilal Tahir,57,42,9,0,135.71,T20I # 2017
+Hong Kong vs Kuwait,Babar Hayat,3,1,c †Usman Patel b Sayed Monib,3,6,0,0,50.00,T20I # 2017
+Hong Kong vs Kuwait,Kinchit Shah,4,1,c Shiraz Khan b Mohamed Shafeeq,0,2,0,0,0.00,T20I # 2017
+Hong Kong vs Kuwait,Aizaz Khan,5,1, b Aslam,18,14,2,1,128.57,T20I # 2017
+Hong Kong vs Kuwait,Yasim Murtaza,6,1,c Bilal Tahir b Mohamed Shafeeq,23,28,1,0,82.14,T20I # 2017
+Hong Kong vs Kuwait,Adit Gorawara,7,1,c Bilal Tahir b Shahrukh Quddus,20,14,2,1,142.85,T20I # 2017
+Hong Kong vs Kuwait,Haroon Arshad,8,1,not out ,3,3,0,0,100.00,T20I # 2017
+Hong Kong vs Kuwait,Ehsan Khan,9,1,not out ,7,2,0,1,350.00,T20I # 2017
+Hong Kong vs Kuwait,Meet Bhavsar,1,2,run out (Aizaz Khan),0,2,0,0,0.00,T20I # 2017
+Hong Kong vs Kuwait,Ravija Sandaruwan,2,2,c Babar Hayat b Yasim Murtaza,12,24,2,0,50.00,T20I # 2017
+Hong Kong vs Kuwait,Adnan Idrees,3,2,c Haroon Arshad b Ehsan Khan,9,9,2,0,100.00,T20I # 2017
+Hong Kong vs Kuwait,Usman Patel,4,2,c †Gorawara b Raag Kapur,16,11,0,2,145.45,T20I # 2017
+Hong Kong vs Kuwait,Ali Zaheer,5,2,lbw b Raag Kapur,3,4,0,0,75.00,T20I # 2017
+Hong Kong vs Kuwait,Mohammed Aslam,6,2,c Yasim Murtaza b Haroon Arshad,19,17,2,0,111.76,T20I # 2017
+Hong Kong vs Kuwait,Shiraz Khan,7,2, b Mohammad Ghazanfar,14,23,0,0,60.86,T20I # 2017
+Hong Kong vs Kuwait,Bilal Tahir,8,2,not out ,35,20,1,4,175.00,T20I # 2017
+Hong Kong vs Kuwait,Sayed Monib,9,2,c Nizakat Khan b Haroon Arshad,19,7,1,2,271.42,T20I # 2017
+Hong Kong vs Kuwait,Mohamed Shafeeq,10,2, b Haroon Arshad,2,4,0,0,50.00,T20I # 2017
+Hong Kong vs Kuwait,Shahrukh Quddus,11,2,not out ,0,1,0,0,0.00,T20I # 2017
+England vs Bangladesh,Phil Salt,1,1,c †Litton Das b Nasum Ahmed,38,35,4,1,108.57,T20I # 2018
+England vs Bangladesh,Jos Buttler,2,1,c Najmul Hossain Shanto b Hasan Mahmud,67,42,4,4,159.52,T20I # 2018
+England vs Bangladesh,Dawid Malan,3,1,c Najmul Hossain Shanto b Shakib Al Hasan,4,7,0,0,57.14,T20I # 2018
+England vs Bangladesh,Ben Duckett,4,1, b Mustafizur Rahman,20,13,3,0,153.84,T20I # 2018
+England vs Bangladesh,Moeen Ali,5,1,not out ,8,7,0,0,114.28,T20I # 2018
+England vs Bangladesh,Sam Curran,6,1,c Najmul Hossain Shanto b Hasan Mahmud,6,11,0,0,54.54,T20I # 2018
+England vs Bangladesh,Chris Woakes,7,1, b Taskin Ahmed,1,2,0,0,50.00,T20I # 2018
+England vs Bangladesh,Chris Jordan,8,1,not out ,5,3,1,0,166.66,T20I # 2018
+England vs Bangladesh,Litton Das,1,2,c Woakes b Archer,12,10,2,0,120.00,T20I # 2018
+England vs Bangladesh,Rony Talukdar,2,2, b Rashid,21,14,4,0,150.00,T20I # 2018
+England vs Bangladesh,Najmul Hossain Shanto,3,2, b Wood,51,30,8,0,170.00,T20I # 2018
+England vs Bangladesh,Towhid Hridoy,4,2,c Curran b Ali,24,17,2,1,141.17,T20I # 2018
+England vs Bangladesh,Shakib Al Hasan,5,2,not out ,34,24,6,0,141.66,T20I # 2018
+England vs Bangladesh,Afif Hossain,6,2,not out ,15,13,2,0,115.38,T20I # 2018
+Kuwait vs Bahrain,Meet Bhavsar,1,1,c Veerapathiran b Sarfaraz Ali,15,20,2,0,75.00,T20I # 2019
+Kuwait vs Bahrain,Ravija Sandaruwan,2,1,c Kurup b Imran Anwar,30,27,2,2,111.11,T20I # 2019
+Kuwait vs Bahrain,Adnan Idrees,3,1,c Junaid Aziz b Imran Anwar,18,17,3,0,105.88,T20I # 2019
+Kuwait vs Bahrain,Usman Patel,4,1,c †Shahbaz Badar b Imran Anwar,4,6,1,0,66.66,T20I # 2019
+Kuwait vs Bahrain,Ali Zaheer,5,1,c †Shahbaz Badar b Veerapathiran,13,13,1,0,100.00,T20I # 2019
+Kuwait vs Bahrain,Bilal Tahir,6,1,run out (Kurup/Sarfaraz Ali),1,2,0,0,50.00,T20I # 2019
+Kuwait vs Bahrain,Shiraz Khan,7,1,not out ,50,24,2,6,208.33,T20I # 2019
+Kuwait vs Bahrain,Sayed Monib,8,1,c Junaid Aziz b Rizwan Butt,22,10,1,2,220.00,T20I # 2019
+Kuwait vs Bahrain,Mohammed Aslam,9,1, b Rizwan Butt,0,1,0,0,0.00,T20I # 2019
+Kuwait vs Bahrain,Prashant Kurup,1,2,c Sandaruwan b Ilyas Ahmed,5,7,1,0,71.42,T20I # 2019
+Kuwait vs Bahrain,Shahbaz Badar,2,2,lbw b Ilyas Ahmed,5,9,0,0,55.55,T20I # 2019
+Kuwait vs Bahrain,Imran Anwar,3,2,c Bilal Tahir b Sayed Monib,87,52,6,7,167.30,T20I # 2019
+Kuwait vs Bahrain,Sohail Ahmed,4,2, b Aslam,17,28,0,0,60.71,T20I # 2019
+Kuwait vs Bahrain,Haider Butt,5,2,c Ali Zaheer b Aslam,1,2,0,0,50.00,T20I # 2019
+Kuwait vs Bahrain,Yasser Nazir,6,2,c Meet Bhavsar b Sayed Monib,0,4,0,0,0.00,T20I # 2019
+Kuwait vs Bahrain,Sarfaraz Ali,7,2,not out ,20,7,1,2,285.71,T20I # 2019
+Kuwait vs Bahrain,Junaid Aziz,8,2,not out ,11,6,2,0,183.33,T20I # 2019
+Malaysia vs Hong Kong,Zubaidi Zulkifle,1,1,c Babar Hayat b Haroon Arshad,0,6,0,0,0.00,T20I # 2020
+Malaysia vs Hong Kong,Virandeep Singh,2,1, b Ehsan Khan,3,8,0,0,37.50,T20I # 2020
+Malaysia vs Hong Kong,Muhammad Amir,3,1,run out (Haroon Arshad/Ehsan Khan),6,5,1,0,120.00,T20I # 2020
+Malaysia vs Hong Kong,Syed Aziz,4,1,c & b Nasrulla Rana,5,11,0,0,45.45,T20I # 2020
+Malaysia vs Hong Kong,Ahmad Faiz,5,1,c Shahid Wasif b Haroon Arshad,4,3,1,0,133.33,T20I # 2020
+Malaysia vs Hong Kong,Vijay Unni,6,1,c †Gorawara b Aizaz Khan,23,30,1,0,76.66,T20I # 2020
+Malaysia vs Hong Kong,Sharvin Muniandy,7,1,c Haroon Arshad b Yasim Murtaza,26,30,2,0,86.66,T20I # 2020
+Malaysia vs Hong Kong,Fitri Sham,8,1,c Shahid Wasif b Aizaz Khan,15,15,0,1,100.00,T20I # 2020
+Malaysia vs Hong Kong,Muhammad Wafiq,9,1,run out (Aizaz Khan/Ehsan Khan),0,2,0,0,0.00,T20I # 2020
+Malaysia vs Hong Kong,Syazrul Idrus,10,1,c & b Ehsan Khan,0,1,0,0,0.00,T20I # 2020
+Malaysia vs Hong Kong,Rizwan Haider,11,1,not out ,2,2,0,0,100.00,T20I # 2020
+Malaysia vs Hong Kong,Nizakat Khan,1,2,c †Syed Aziz b Syazrul Idrus,1,3,0,0,33.33,T20I # 2020
+Malaysia vs Hong Kong,Yasim Murtaza,2,2,lbw b Rizwan Haider,13,9,0,1,144.44,T20I # 2020
+Malaysia vs Hong Kong,Babar Hayat,3,2,c Ahmed Faiz b Fitri Sham,5,11,0,0,45.45,T20I # 2020
+Malaysia vs Hong Kong,Kinchit Shah,4,2,lbw b Fitri Sham,0,1,0,0,0.00,T20I # 2020
+Malaysia vs Hong Kong,Aizaz Khan,5,2,not out ,44,46,2,3,95.65,T20I # 2020
+Malaysia vs Hong Kong,Adit Gorawara,6,2,run out (sub [Mohamed Arief]/Vijay Unni),1,4,0,0,25.00,T20I # 2020
+Malaysia vs Hong Kong,Shahid Wasif,7,2,c Muhammad Amir b Muhammad Wafiq,23,30,2,1,76.66,T20I # 2020
+Malaysia vs Hong Kong,Haroon Arshad,8,2,not out ,7,11,1,0,63.63,T20I # 2020
+Bahrain vs Kuwait,Haider Butt,1,1,c †Usman Patel b Shahrukh Quddus,0,3,0,0,0.00,T20I # 2021
+Bahrain vs Kuwait,Prashant Kurup,2,1,run out (†Usman Patel),33,35,4,0,94.28,T20I # 2021
+Bahrain vs Kuwait,Imran Anwar,3,1, b Ilyas Ahmed,6,15,1,0,40.00,T20I # 2021
+Bahrain vs Kuwait,Sohail Ahmed,4,1,c Sandaruwan b Sayed Monib,1,3,0,0,33.33,T20I # 2021
+Bahrain vs Kuwait,Shahbaz Badar,5,1,lbw b Aslam,15,11,1,1,136.36,T20I # 2021
+Bahrain vs Kuwait,Ahmer Bin Nisar,6,1,c Aslam b Adnan Idrees,17,21,2,0,80.95,T20I # 2021
+Bahrain vs Kuwait,Sarfaraz Ali,7,1,c Adnan Idrees b Sayed Monib,31,17,1,4,182.35,T20I # 2021
+Bahrain vs Kuwait,Junaid Aziz,8,1, b Shahrukh Quddus,23,10,4,1,230.00,T20I # 2021
+Bahrain vs Kuwait,Sathaiya Veerapathiran,9,1,run out (†Usman Patel),4,4,1,0,100.00,T20I # 2021
+Bahrain vs Kuwait,Rizwan Butt,10,1,not out ,0,1,0,0,0.00,T20I # 2021
+Bahrain vs Kuwait,Meet Bhavsar,1,2,c Veerapathiran b Imran Anwar,25,23,3,0,108.69,T20I # 2021
+Bahrain vs Kuwait,Ravija Sandaruwan,2,2,lbw b Imran Anwar,37,33,4,2,112.12,T20I # 2021
+Bahrain vs Kuwait,Adnan Idrees,3,2,c Rizwan Butt b Imran Anwar,15,9,1,1,166.66,T20I # 2021
+Bahrain vs Kuwait,Ali Zaheer,4,2,not out ,13,18,0,0,72.22,T20I # 2021
+Bahrain vs Kuwait,Usman Patel,5,2,c Sarfaraz Ali b Veerapathiran,9,10,0,0,90.00,T20I # 2021
+Bahrain vs Kuwait,Sayed Monib,6,2,not out ,31,16,3,2,193.75,T20I # 2021
+Hong Kong vs Malaysia,Nizakat Khan,1,1,lbw b Vijay Unni,27,27,1,1,100.00,T20I # 2022
+Hong Kong vs Malaysia,Anshy Rath,2,1, b Muniandy,49,40,7,0,122.50,T20I # 2022
+Hong Kong vs Malaysia,Babar Hayat,3,1,c Muhammad Amir b Muniandy,7,3,0,1,233.33,T20I # 2022
+Hong Kong vs Malaysia,Kinchit Shah,4,1,c Muniandy b Rizwan Haider,29,23,1,2,126.08,T20I # 2022
+Hong Kong vs Malaysia,Aizaz Khan,5,1,c Ahmed Faiz b Muniandy,1,3,0,0,33.33,T20I # 2022
+Hong Kong vs Malaysia,Yasim Murtaza,6,1,run out (Virandeep Singh/†Syed Aziz),45,17,3,4,264.70,T20I # 2022
+Hong Kong vs Malaysia,Zeeshan Ali,7,1,c †Syed Aziz b Muhammad Wafiq,7,4,0,1,175.00,T20I # 2022
+Hong Kong vs Malaysia,Haroon Arshad,8,1,c Muniandy b Muhammad Wafiq,0,1,0,0,0.00,T20I # 2022
+Hong Kong vs Malaysia,Shahid Wasif,9,1,not out ,1,1,0,0,100.00,T20I # 2022
+Hong Kong vs Malaysia,Nasrulla Rana,10,1,not out ,6,1,0,1,600.00,T20I # 2022
+Hong Kong vs Malaysia,Zubaidi Zulkifle,1,2,c Nasrulla Rana b Aizaz Khan,29,13,5,1,223.07,T20I # 2022
+Hong Kong vs Malaysia,Virandeep Singh,2,2,c Babar Hayat b Aizaz Khan,4,2,1,0,200.00,T20I # 2022
+Hong Kong vs Malaysia,Muhammad Amir,3,2,c †Zeeshan Ali b Yasim Murtaza,7,11,0,0,63.63,T20I # 2022
+Hong Kong vs Malaysia,Syed Aziz,4,2,c Shahid Wasif b Ehsan Khan,2,2,0,0,100.00,T20I # 2022
+Hong Kong vs Malaysia,Vijay Unni,5,2,c Babar Hayat b Shah,18,11,4,0,163.63,T20I # 2022
+Hong Kong vs Malaysia,Mohamed Arief,6,2,c †Zeeshan Ali b Nasrulla Rana,1,2,0,0,50.00,T20I # 2022
+Hong Kong vs Malaysia,Ahmad Faiz,7,2,c †Zeeshan Ali b Nasrulla Rana,17,22,0,1,77.27,T20I # 2022
+Hong Kong vs Malaysia,Sharvin Muniandy,8,2,c Shah b Aizaz Khan,20,19,1,1,105.26,T20I # 2022
+Hong Kong vs Malaysia,Fitri Sham,9,2, b Ehsan Khan,15,16,2,0,93.75,T20I # 2022
+Hong Kong vs Malaysia,Muhammad Wafiq,10,2,c †Zeeshan Ali b Aizaz Khan,0,1,0,0,0.00,T20I # 2022
+Hong Kong vs Malaysia,Rizwan Haider,11,2,not out ,17,10,0,2,170.00,T20I # 2022
+England vs Bangladesh,Phil Salt,1,1,c & b Shakib Al Hasan,25,19,3,1,131.57,T20I # 2023
+England vs Bangladesh,Dawid Malan,2,1,c Hasan Mahmud b Taskin Ahmed,5,8,1,0,62.50,T20I # 2023
+England vs Bangladesh,Moeen Ali,3,1,c sub (Shamim Hossain) b Mehidy Hasan Miraz,15,17,1,1,88.23,T20I # 2023
+England vs Bangladesh,Jos Buttler,4,1, b Hasan Mahmud,4,6,0,0,66.66,T20I # 2023
+England vs Bangladesh,Ben Duckett,5,1,c Najmul Hossain Shanto b Mustafizur Rahman,28,28,2,0,100.00,T20I # 2023
+England vs Bangladesh,Sam Curran,6,1,st †Litton Das b Mehidy Hasan Miraz,12,16,1,0,75.00,T20I # 2023
+England vs Bangladesh,Chris Woakes,7,1,st †Litton Das b Mehidy Hasan Miraz,0,2,0,0,0.00,T20I # 2023
+England vs Bangladesh,Chris Jordan,8,1,c Rony Talukdar b Mehidy Hasan Miraz,3,10,0,0,30.00,T20I # 2023
+England vs Bangladesh,Rehan Ahmed,9,1,run out (†Litton Das/Mustafizur Rahman),11,11,2,0,100.00,T20I # 2023
+England vs Bangladesh,Adil Rashid,10,1,not out ,1,2,0,0,50.00,T20I # 2023
+England vs Bangladesh,Jofra Archer,11,1,run out (†Litton Das/Mustafizur Rahman),0,1,0,0,0.00,T20I # 2023
+England vs Bangladesh,Litton Das,1,2,c Salt b Curran,9,9,1,0,100.00,T20I # 2023
+England vs Bangladesh,Rony Talukdar,2,2,c Ali b Archer,9,14,1,0,64.28,T20I # 2023
+England vs Bangladesh,Najmul Hossain Shanto,3,2,not out ,46,47,3,0,97.87,T20I # 2023
+England vs Bangladesh,Towhid Hridoy,4,2,c Woakes b Rehan Ahmed,17,18,2,0,94.44,T20I # 2023
+England vs Bangladesh,Mehidy Hasan Miraz,5,2,c Rashid b Archer,20,16,0,2,125.00,T20I # 2023
+England vs Bangladesh,Shakib Al Hasan,6,2,c Jordan b Ali,0,3,0,0,0.00,T20I # 2023
+England vs Bangladesh,Afif Hossain,7,2, b Archer,2,3,0,0,66.66,T20I # 2023
+England vs Bangladesh,Taskin Ahmed,8,2,not out ,8,3,2,0,266.66,T20I # 2023
+Vanuatu vs Samoa,Nalin Nipiko,1,1,c †Kaisala b Faatea,24,17,5,0,141.17,T20I # 2024
+Vanuatu vs Samoa,Clement Tommy,2,1,c Faatea b Toutai,18,11,4,0,163.63,T20I # 2024
+Vanuatu vs Samoa,Junior Kaltapau,3,1, b Rapi,3,4,0,0,75.00,T20I # 2024
+Vanuatu vs Samoa,Patrick Matautaava,4,1, b Rapi,0,2,0,0,0.00,T20I # 2024
+Vanuatu vs Samoa,Ronald Tari,5,1,c & b Roache,56,40,4,2,140.00,T20I # 2024
+Vanuatu vs Samoa,Womejo Wotu,6,1, b Faatea,12,8,1,1,150.00,T20I # 2024
+Vanuatu vs Samoa,Joshua Rasu,7,1, b Rapi,27,23,2,0,117.39,T20I # 2024
+Vanuatu vs Samoa,Simpson Obed,8,1,c Fereti b Tuilaepa,2,8,0,0,25.00,T20I # 2024
+Vanuatu vs Samoa,Godfrey Mangau,9,1,not out ,9,6,2,0,150.00,T20I # 2024
+Vanuatu vs Samoa,Darren Wotu,10,1,not out ,3,3,0,0,100.00,T20I # 2024
+Vanuatu vs Samoa,Uala Kaisala,1,2,c †Tommy b Mangau,1,8,0,0,12.50,T20I # 2024
+Vanuatu vs Samoa,Paul Rarotoga,2,2,c Matautaava b Obed,56,39,8,2,143.58,T20I # 2024
+Vanuatu vs Samoa,Darren Roache,3,2, b D Wotu,24,28,3,0,85.71,T20I # 2024
+Vanuatu vs Samoa,Matthew Faatea,4,2, b Matautaava,4,10,1,0,40.00,T20I # 2024
+Vanuatu vs Samoa,Josef Pita,5,2,c Matautaava b Obed,8,5,1,0,160.00,T20I # 2024
+Vanuatu vs Samoa,Maletino Maiava,6,2, b Matautaava,4,2,1,0,200.00,T20I # 2024
+Vanuatu vs Samoa,Timezeen Rapi,7,2,run out (Matautaava),1,2,0,0,50.00,T20I # 2024
+Vanuatu vs Samoa,Liuone Fereti,8,2,not out ,14,14,3,0,100.00,T20I # 2024
+Vanuatu vs Samoa,Sitanisilao Toutai,9,2,c Tari b Obed,1,3,0,0,33.33,T20I # 2024
+Vanuatu vs Samoa,Bondi Pita,10,2,c b Obed,17,9,2,0,188.88,T20I # 2024
+Vanuatu vs Samoa,Maene Tuilaepa,11,2,not out ,9,5,2,0,180.00,T20I # 2024
+Fiji vs Samoa,Cakacaka Veretaki,1,1,run out (Faatea),60,41,8,2,146.34,T20I # 2025
+Fiji vs Samoa,Delaimatuku Maraiwai,2,1,c Pita b Rapi,13,12,1,1,108.33,T20I # 2025
+Fiji vs Samoa,Seru Tupou,3,1,c Maiava b Roache,21,15,3,1,140.00,T20I # 2025
+Fiji vs Samoa,Peni Vuniwaqa,4,1, b Tuilaepa,26,19,1,2,136.84,T20I # 2025
+Fiji vs Samoa,Peni Dakainivanua,5,1,not out ,25,17,2,1,147.05,T20I # 2025
+Fiji vs Samoa,Noa Acawei,6,1, b Faatea,8,5,2,0,160.00,T20I # 2025
+Fiji vs Samoa,Metuisela Beitaki,7,1,not out ,33,14,3,2,235.71,T20I # 2025
+Fiji vs Samoa,Paul Rarotoga,1,2,c & b Manakitoga,2,3,0,0,66.66,T20I # 2025
+Fiji vs Samoa,Darren Roache,2,2,c Vuniwaqa b Tabuisulu,10,10,2,0,100.00,T20I # 2025
+Fiji vs Samoa,Liuone Fereti,3,2, b Tabuisulu,1,3,0,0,33.33,T20I # 2025
+Fiji vs Samoa,Timezeen Rapi,4,2,c Tabuisulu b Kotoisuva,13,13,2,0,100.00,T20I # 2025
+Fiji vs Samoa,Uala Kaisala,5,2,c Tabuisulu b Cabebula,1,4,0,0,25.00,T20I # 2025
+Fiji vs Samoa,Maletino Maiava,6,2,c b Cabebula,34,29,2,0,117.24,T20I # 2025
+Fiji vs Samoa,Matthew Faatea,7,2, b Kotoisuva,0,3,0,0,0.00,T20I # 2025
+Fiji vs Samoa,Josef Pita,8,2, b Manakitoga,46,39,7,1,117.94,T20I # 2025
+Fiji vs Samoa,Sitanisilao Toutai,9,2,c †Beitaki b Cabebula,2,3,0,0,66.66,T20I # 2025
+Fiji vs Samoa,Maene Tuilaepa,10,2, b Cabebula,2,3,0,0,66.66,T20I # 2025
+Fiji vs Samoa,Aoga Leutogi,11,2,not out ,13,6,0,1,216.66,T20I # 2025
+Bangladesh vs England,Litton Das,1,1,c Salt b Jordan,73,57,10,1,128.07,T20I # 2026
+Bangladesh vs England,Rony Talukdar,2,1,c & b Rashid,24,22,3,0,109.09,T20I # 2026
+Bangladesh vs England,Najmul Hossain Shanto,3,1,not out ,47,36,1,2,130.55,T20I # 2026
+Bangladesh vs England,Shakib Al Hasan,4,1,not out ,4,6,0,0,66.66,T20I # 2026
+Bangladesh vs England,Dawid Malan,1,2,c †Litton Das b Mustafizur Rahman,53,47,6,2,112.76,T20I # 2026
+Bangladesh vs England,Phil Salt,2,2,st †Litton Das b Tanvir Islam,0,1,0,0,0.00,T20I # 2026
+Bangladesh vs England,Jos Buttler,3,2,run out (Mehidy Hasan Miraz),40,31,4,1,129.03,T20I # 2026
+Bangladesh vs England,Ben Duckett,4,2, b Taskin Ahmed,11,11,2,0,100.00,T20I # 2026
+Bangladesh vs England,Moeen Ali,5,2,c Mehidy Hasan Miraz b Taskin Ahmed,9,10,0,1,90.00,T20I # 2026
+Bangladesh vs England,Sam Curran,6,2,c Tanvir Islam b Shakib Al Hasan,4,6,0,0,66.66,T20I # 2026
+Bangladesh vs England,Chris Woakes,7,2,not out ,13,10,2,0,130.00,T20I # 2026
+Bangladesh vs England,Chris Jordan,8,2,not out ,2,4,0,0,50.00,T20I # 2026
