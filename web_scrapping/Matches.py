@@ -4,7 +4,7 @@ import pandas as pd
 
 #making get request
 
-r = requests.get('https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=3;id=2023;type=year')
+r = requests.get('https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=2022%2F23;trophy=89;type=season')
 print(r)
 
 soup = BeautifulSoup(r.content,'html.parser')
@@ -21,9 +21,9 @@ for row in content:
         margin = columns[3].text
         ground = columns[4].text
         matchdate = columns[5].text
-        #scorecard = columns[6].text
-        list_row = [team1, team2, winner, margin, ground, matchdate]
+        matchid = columns[6].text
+        list_row = [team1, team2, winner, margin, ground, matchdate, matchid]
         dataframe.append(list_row)
 df = pd.DataFrame(dataframe)
-df.columns = ['Team1', 'Team2', 'Winner', 'Margin', 'Ground', 'Matchdate']
+df.columns = ['Team1', 'Team2', 'Winner', 'Margin', 'Ground', 'Matchdate','Match_ID']
 df.to_csv(r'C:\Users\ASUS\Desktop\Kaggle\Data Analysis\Cricket_Analysis\WebData\Matches.csv', index=False)
